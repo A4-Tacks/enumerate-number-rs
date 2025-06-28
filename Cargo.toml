@@ -1,6 +1,6 @@
 [package]
 name = "enumerate-number"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 authors = ["A4-Tacks <wdsjxhno1001@163.com>"]
@@ -9,7 +9,7 @@ categories = ["no-std", "no-std::no-alloc"]
 description = "Iterator::enumerate, but use u32, i64, f32 etc"
 
 license = "MIT"
-repository = "https://github.com/A4-Tacks/itermaps-rs"
+repository = "https://github.com/A4-Tacks/enumerate-number-rs"
 
 readme = "README.md"
 
